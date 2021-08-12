@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "512872847674",
+    "project_id": "realtimedatabasedemo-22f4d",
+    "storage_bucket": "realtimedatabasedemo-22f4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512872847674:android:a295ab0a2d7ed4e63e5803",
+        "android_client_info": {
+          "package_name": "com.ronit.realtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512872847674-s3rhfg30rebbnsunbe44q8d8glum9fcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJj0lEau52vZCiXmhPrMBOlN8CYG0Dli4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512872847674-s3rhfg30rebbnsunbe44q8d8glum9fcp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
